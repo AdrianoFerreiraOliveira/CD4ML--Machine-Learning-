@@ -1,5 +1,7 @@
 # Continuous Intelligence and CD4ML Workshop
 
+![image](https://github.com/user-attachments/assets/9622eba8-6fd4-402e-b7ce-089c38003eee)
+
 This workshop contains the sample application and machine learning code used for the Continuous Delivery for Machine Learning (CD4ML) and Continuous Intelligence workshop. 
 
 This workshop is based on an existing [CD4ML Workshop](https://github.com/ThoughtWorksInc/cd4ml-workshop).
